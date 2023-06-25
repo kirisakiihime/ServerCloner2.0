@@ -1,34 +1,13 @@
----
 <h2 align="center">DISCORD SERVER CLONER</h2>
-<div align="center">
-<img src="https://i.imgur.com/K6e9MUz.png" />
-</div>
+<p align="center"> A tool to clone a Discord server, including channels, categories, roles and permissions.</p>
 <p align="center">
 <a href="https://discord.gg/cPKc5B6Gnv" alt="Dev Pro Tips Discussion & Support Server">
-<img src="https://img.shields.io/discord/836621542917275668?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/discord/1009384971191988224?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 </p>
-</p>
-<p align="center"> A tool to clone a Discord server, including channels, categories, roles and permissions.</p>
----
-
-## Video Tutorial:
-
-<table><tr><td><a href="https://youtu.be/bGu54aX8jwU"><img width="300px" src="https://i.imgur.com/oJlZffu.png"></a></td>
-<td><a href="https://youtu.be/bGu54aX8jwU">[2023] How to Clone Any Discord Server? (UPDATED)</a><br/>March 5, 2023</td></tr></table>
 
 ## Installation:
 
-- ### Automatic Installation
-
-#### Using Repl.it
-You can use [Repl.it](https://replit.com/) to run the script without installing anything.
-Click the button below to run it on Repl.it.
-
-[![Run on Repl.it](https://repl.it/badge/github/LAW1337/DiscordServerCloner)](https://replit.com/@LAW1337/DiscordServerCloner-20)
-
-
-- ### Manual Installation
 You can also run the script manually by cloning the repository and installing the dependencies.
 
 
@@ -52,11 +31,7 @@ You can also run the script manually by cloning the repository and installing th
 ## Credits:
 
 Inspired by several older Discord Cloner.
+[TheLittleOutsiders](https://rin4ever.xyz) | 
+[LAW-Tutorials](https://www.youtube.com/watch?v=3qzpmTIQ-Gs)
 
-Edited by:
-[LAW-Tutorials](https://www.youtube.com/channel/UCbfGHhyeHpKXF5rl1cRfvbg "LAW-Tutorials")
-
-Support me: [Follow on YouTube](https://www.youtube.com/channel/UCbfGHhyeHpKXF5rl1cRfvbg?sub_confirmation=1 "Follow")
-
-
-**05/03/2023.**
+**26/06/2023.**
