@@ -32,6 +32,6 @@ You can also run the script manually by cloning the repository and installing th
 
 Inspired by several older Discord Cloner.
 [TheLittleOutsiders](https://rin4ever.xyz) | 
-[LAW-Tutorials](https://www.youtube.com/watch?v=3qzpmTIQ-Gs)
+[LAW-Tutorials](https://github.com/LawOff)
 
 **26/06/2023.**
