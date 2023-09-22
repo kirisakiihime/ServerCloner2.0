@@ -1,5 +1,5 @@
 {
-    "token":false,
+    "token": false,
     "prefix": "!",
     "logs": true,
     "copy_settings": {
