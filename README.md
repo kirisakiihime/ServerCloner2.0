@@ -27,7 +27,7 @@ You can also run the script manually by cloning the repository and installing th
   <img width="300px" src="https://i.imgur.com/prK9yR4.png">
 - Wait for the script to finish
 
-## Credits:
+##### Credits:
 
 Inspired by several older Discord Cloner.
 [mikaaamoe - modifer](https://rin4ever.xyz) |
