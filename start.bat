@@ -5,18 +5,6 @@ set LOG_DIR=logs
 set LOG_FILE=%LOG_DIR%\install_log_%date:~10,4%%date:~4,2%%date:~7,2%.txt
 if not exist %LOG_DIR% mkdir %LOG_DIR%
 
-:loading
-setlocal enabledelayedexpansion
-for /f %%a in ('copy /Z "%~dpf0" nul') do set "BS=%%a"
-for /l %%b in (1,1,10) do (
-    <nul set /p "=Installing Python dependencies... !BS! !BS! !BS!"
-    timeout /t 1 /nobreak >nul
-)
-echo Done.
-endlocal
-
-call :loading
-
 echo Installing Python dependencies for ServerCloner2.0...
 pip install -r requirements.txt > %LOG_FILE% 2>&1
 
