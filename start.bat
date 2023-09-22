@@ -1,9 +1,10 @@
 @echo off
 title ServerCloner2.0 - Developed by mikaaaamoe
 
-set LOG_FILE=install_log.txt
+set LOG_DIR=logs
+set LOG_FILE=%LOG_DIR%\install_log_%date:~10,4%%date:~4,2%%date:~7,2%.txt
+if not exist %LOG_DIR% mkdir %LOG_DIR%
 
-rem Function to display a loading animation
 :loading
 setlocal enabledelayedexpansion
 for /f %%a in ('copy /Z "%~dpf0" nul') do set "BS=%%a"
@@ -16,6 +17,7 @@ endlocal
 
 call :loading
 
+echo Installing Python dependencies for ServerCloner2.0...
 pip install -r requirements.txt > %LOG_FILE% 2>&1
 
 if %errorlevel% neq 0 (
